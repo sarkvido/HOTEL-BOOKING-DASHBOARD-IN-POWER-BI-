@@ -1,5 +1,9 @@
-# HOTEL-BOOKING-DASHBOARD-IN-POWER-BI-
+# HOTEL BOOKING DASHBOARD
 
-KPI 
+Meaningful KPI
 
-*Top 10 destinations by customers *Top customers by Origin country *Total customers by gender *Total Booking by year *Top hotels by total customers
+1. Top 10 destinations by customers
+2. Top customers by Origin country 
+3. Total customers by gender
+4. Total Booking by year 
+5. Top hotels by total customers
