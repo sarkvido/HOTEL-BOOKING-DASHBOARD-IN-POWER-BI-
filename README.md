@@ -7,3 +7,8 @@ Meaningful KPI
 3. Total customers by gender
 4. Total Booking by year 
 5. Top hotels by total customers
+
+
+Here is the screenshot of my dashboard 
+
+![This is an image](https://github.com/sarkvido/HOTEL-BOOKING-DASHBOARD-IN-POWER-BI-/blob/main/dashboard_picture.jpg)
